@@ -1,2 +1,2 @@
-# Extracts information from payment invoice
+# Extracts-information-from-payment-invoices.
  
